@@ -1,6 +1,6 @@
 {
   // Name this configuration
-  "Don't Call Me Shirley", 
+  "name": "Don't Call Me Shirley", 
   "customizations": {
     "vscode": {
       "extensions": [
